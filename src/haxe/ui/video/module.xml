@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<module>
+	<exports>
+		<component alias="video" class="haxe.ui.video.Video" />
+	</exports>
+	<themes>
+		<public>
+			<styles path="css/video.css" />
+		</public>
+	</themes>
+</module>
